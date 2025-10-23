@@ -1,0 +1,40 @@
+name: tugas_uts_mobilelanjut
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  font_awesome_flutter: ^10.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/splash1.png
+    - assets/images/splash2.jpg
+    - assets/images/splash3.jpg
+    - assets/images/splash4.jpg
+    - assets/images/welcome.jpg
+    - assets/images/google_logo.png
+    - assets/images/login.jpg
+    - assets/images/signup.jpg
+    - assets/images/alpukat.png
+    - assets/images/anggur.png
+    - assets/images/banner.jpg
+    - assets/images/brokoli.png
+    - assets/images/delima.png
+    - assets/images/nanas.png
+    - assets/images/persik.png
+    - assets/images/profile.jpg
+
